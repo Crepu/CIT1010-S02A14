@@ -1,0 +1,4 @@
+manzanas 420 2.250
+peras 380 1.400
+melones 500 2
+papas 300 3.100
