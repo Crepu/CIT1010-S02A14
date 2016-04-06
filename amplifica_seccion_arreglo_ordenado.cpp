@@ -29,6 +29,7 @@ int main()
    
    //Imprime original
    cout << "ingresado: ";
+   cout<<"lala"<<endl;
    imprime_arreglo(aa,cont);
    
    cout << "buscar: " << busc << endl;
